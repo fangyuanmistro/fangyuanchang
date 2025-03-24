@@ -1,74 +1,53 @@
 ---
 layout: article
-titles:
-  # @start locale config
-  en      : &EN       About
-  en-GB   : *EN
-  en-US   : *EN
-  en-CA   : *EN
-  en-AU   : *EN
-  zh-Hans : &ZH_HANS  关于
-  zh      : *ZH_HANS
-  zh-CN   : *ZH_HANS
-  zh-SG   : *ZH_HANS
-  zh-Hant : &ZH_HANT  關於
-  zh-TW   : *ZH_HANT
-  zh-HK   : *ZH_HANT
-  ko      : &KO       소개
-  ko-KR   : *KO
-  fr      : &FR       À propos
-  fr-BE   : *FR
-  fr-CA   : *FR
-  fr-CH   : *FR
-  fr-FR   : *FR
-  fr-LU   : *FR
-  # @end locale config
-key: page-about
+titles: About
 ---
 
-![TeXt Theme](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg)
 
-TeXt is a super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc. Similar to iOS 11 style, it has large and prominent titles, round buttons and cards.
+<a href="[https://scholar.xjtlu.edu.cn/en/persons/YueLi](https://designschool.sjtu.edu.cn/teacher/31104c124abec4f853ad19c8530ab586/lecture/detail/6605572483c266cf0992c585)"><img src="[http://profile.xjtlu.edu.cn/upload/8PWcWXwozR9kbffOuAYO.jpg](https://designschool.sjtu.edu.cn/static/WechatIMG755-1732085107404.jpg)" height="auto" width="200" style="border-radius:3%; float: left"></a>
 
-```javascript
-(() => console.log('Hello, World!'))();
-```
+I am an Assistant Professor at the Department of Design, Shanghai Jiao Tong University. 
 
-## Features
+My research interest lies at the intersection between **Human Computer Interaction (HCI)** and **Studies of Technology and Society (STS)**, with particular emphasis on **Sensing** technologies. I have been actively involved in research related to the design, evaluation, and application of **sensor-based systems** as well as **AR/VR** in **eldercare**, **education** and **cultural heritage**. 
 
-- Responsive
-- Semantic HTML
-- Skins
-- Highlight Theme
-- Internationalization
-- Search
-- Table of contents
-- Authors
-- Additional styles (alert, tag, image, icon, button, grid, etc)
-- Extensions (audios, videos, slides, demos)
-- Markdown enhancements ([MathJax](https://www.mathjax.org/), [mermaid](https://mermaidjs.github.io/), [chartjs](http://www.chartjs.org/))
-- Sharing ([AddToAny](https://www.addtoany.com/), [AddThis](https://www.addthis.com/))
-- Comments ([Disqus](https://disqus.com/), [Gitalk](https://gitalk.github.io/), [Valine](https://valine.js.org/en/))
-- Pageview ([LeanCloud](https://leancloud.cn/))
-- Analytics ([Google Analytics](https://analytics.google.com/analytics/web/))
-- RSS ([jekyll-feed](https://github.com/jekyll/jekyll-feed))
+Currently I am leading several prestigious research grants, including the Young Scientist Programme of the **National Natural Science Foundation of China (NSFC)** and the Young Scientist Programme of the **Shanghai Magnolia Talent Plan Pujiang Project**. My scholarly contributions have been published in esteemed international journals and conferences such as Innovation in Aging, Medical Internet Research, ACM CHI, and so on. I also hold an executive member role in the CCF HCI Committee and I am a professional member of ASA, IEEE, Socio-gerontechnology Nerwork, and DRS. My commitment to the field is underscored by my long-standing service and regular engagement as an editorial board member, program committee member, and reviewer for international journals and conferences. 
 
-## Skins
+## Research Experience
+- **Assistant Professor** in School of Design, Shanghai Jiao Tong University, 2024 - Now
+- **Postdoc** in School of Design × School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University, 2022 - 2024
+- **PhD** in Technology in Health Care, KTH Royal Institute of Technology, 2017 - 2021
+- **ME** in Furniture Design and Engineering, Nanjing Forestry University, 2013 - 2016
+- **BE** in Industrial Design (Furniture Design), Nanjing Forestry University, 2009 - 2013
 
-TeXt has 6 built-in skins, you can also set up your own skin.
+## Teaching
+- **Co-Teacher**, Interaction Design Principles, Shanghai Jiao Tong University, 2024/25 S2.
+- **Co-Teacher**, Smart Design, Shanghai Jiao Tong University, 2024/25 S2. 
+- **Teaching Assistant**, Interaction Design I, Shanghai Jiao Tong University, 2022/23 S2.
+- **Teaching Assistant**, Evaluation Methods and Statistics, Karolinska Institute, 2020/21 S1.
+- **Teaching Assistant**, Ergonomics, KTH Royal Institute of Technology, 2018/19 S2.
 
-| `default` | `dark` | `forest` |
-| --- |  --- | --- |
-| ![Default](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_default.jpg) | ![Dark](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_dark.jpg) | ![Forest](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_forest.jpg) |
+## Honours and Awards
+- **Magnolia Pujiang Talents**, Shanghai, 2024
+- **Shanghai Super Postdoctoral Program**, Shanghai, 2023
+- **Liberal Arts Youth Talent**, Shanghai Jiao Tong University, 2024
+- **Campus Postgraduate Award**, KTH Royal Institute of Technology, 2018
+- **National Scholarship Award**, Chinese Ministry of Education, 2012, 2014
 
-| `ocean` | `chocolate` | `orange` |
-| --- |  --- | --- |
-| ![Ocean](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_ocean.jpg) | ![Chocolate](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_chocolate.jpg) | ![Orange](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_orange.jpg) |
 
-### Highlight Theme
 
-TeXt use [Tomorrow](https://github.com/chriskempson/tomorrow-theme) as the highlight theme.
+<div class="hero" style="background-color:#f7f7f7; ">
+  <div class="hero__content">
+    <h4>Contact</h4>
+    <p style="font-size: medium;"><b>E-mail</b>: fangyuanchang@sjtu.edu.cn<br>
+      <b>Phone</b>: +86 (0)21 34207430<br>
+      <b>Address</b>:<br>
+      Room 320, School of Design<br>
+      Shanghai Jiao Tong University<br>
+      No 800, Dongchuan Road<br>
+      Minhang Strict<br>
+      Shanghai, China<br>
+      200240
+    </p>
+  </div>
+</div>
 
-| `tomorrow` | `tomorrow-night` | `tomorrow-night-eighties` | `tomorrow-night-blue` | `tomorrow-night-bright` |
-| --- |  --- | --- | --- |  --- |
-| ![Tomorrow](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow.png) | ![Tomorrow Night](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night.png) | ![Tomorrow Night Eighties](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-eighties.png) | ![Tomorrow Night Blue](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-blue.png) | ![Tomorrow Night Bright](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-bright.png) |
