@@ -7,7 +7,7 @@ titles: More
 ## There is more to life ☕️ than work 💻. 
 
 <div>
-<p> I’m <b>Fangyuan</b> 🌝 when not being Dr Chang. </p>
+<p> I’m <b>Fangyuan</b> 🌝 when not being Dr. Chang. </p>
 
 <p> 📍 I live in <b>Shanghai</b>, a city located in the east of China. </p> 
 
