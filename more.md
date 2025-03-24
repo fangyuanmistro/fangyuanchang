@@ -28,8 +28,6 @@ The best part is always the amazing <b>people</b> that I meet, climb together an
 At home, I play <em>Just Dance</em> 💃 and <em>Overcooked</em> 👩‍🍳 on Switch or <em>Beat Saber</em> ⚔ in VR.<br>
 </p> 
 </div>
-
-
 <div>
 <p> 
 You may also find me in an exquisite <em>cafe</em> ☕️ with a cup of latte, or hanging around in <em>museums and galleries</em> 🏛. <br>
