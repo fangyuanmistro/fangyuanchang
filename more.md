@@ -22,7 +22,7 @@ It brings me to the beautiful natural areas and heights 🏔 that I’ll never r
 
 The best part is always the amazing <b>people</b> that I meet, climb together and become <b>friends</b> with 👭.
 </p>
-<p> I have a sweet cat named <em>Pipi</em> 🐈‍⬛. </p> 
+<p> I also have a sweet cat named <em>Pipi</em> 🐈‍⬛. </p>  
 </div>
 <p>
 At home, I play <em>Just Dance</em> 💃 and <em>Overcooked</em> 👩‍🍳 on Switch or <em>Beat Saber</em> ⚔ in VR.<br>
