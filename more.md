@@ -7,7 +7,7 @@ titles: More
 ## There is more to life ☕️ than work 💻. 
 
 <div>
-<p> I’m <b>Fangyuan</b> 🌝 when not being Dr. Chang. </p>
+<p> I’m <b>Fangyuan</b> 🎉 when not being Dr. Chang. </p>
 
 <p> 📍 I live in <b>Shanghai</b>, a city located in the east of China. </p> 
 
@@ -19,6 +19,7 @@ It trains my determination, focus, endurance and strength 💪. <br>
 It fights depression and rewards me with confidence and satisfaction from well-earned victory ✌️. <br>
 It brings me to the beautiful natural areas and heights 🏔 that I’ll never reach otherwise. <br>
 </ul>
+
 The best part is always the amazing <b>people</b> that I meet, climb together and become <b>friends</b> with 👭.
 </p>
 <p> I have a sweet cat named <em>Pipi</em> 🐈‍⬛. </p> 
