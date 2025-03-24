@@ -223,3 +223,10 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jemoji
+  - jekyll-gallery-generator
+  - jekyll-redirect-from
+
+titles_from_headings:
+  enabled:     false
+  strip_title: false
+  collections: false
