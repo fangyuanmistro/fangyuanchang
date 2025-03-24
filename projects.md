@@ -28,38 +28,6 @@ For SJTU students who are interested in doing projects with me, please feel free
 ## Selected Projects
 <div class="grid-container" style="padding:10px">
   <div class="grid grid--p-3">
-    <!-- <div class="cell cell--4">
-      <div>
-        <div class="card">
-          <div class="card__image">
-            <img class="image" src="/assets/projects/project-fmp-21-shiyingcai.png"/>
-          </div>
-          <div class="card__content">
-            <div class="card__header">
-              <h4>PublicVR</h4>
-            </div>
-            <p> AY2021-2022 FMP. PublicVR: Virtual Reality Arcades in Chinese Shopping Malls. </p>
-            <p> Student: Shiying Cai. </p>
-          </div>
-        </div>  
-      </div>
-    </div>
-    <div class="cell cell--4">
-      <div>
-        <div class="card">
-          <div class="card__image">
-            <img class="image" src="/assets/projects/project-fmp-21-jiayouhuang.png"/>
-          </div>
-          <div class="card__content">
-            <div class="card__header">
-              <h4>BurnMyCalories</h4>
-            </div>
-            <p> AY2021-2022 FMP. BurnMyCalories: Comparing Workouts with Nintendo Switch and Virtual Reality </p>
-            <p> Student: Jiayou Huang. </p>
-          </div>
-        </div>  
-      </div>
-    </div> -->
     <div class="cell cell--4">
       <div>
         <div class="card">
@@ -68,10 +36,10 @@ For SJTU students who are interested in doing projects with me, please feel free
           </div>
           <div class="card__content">
             <div class="card__header">
-              <h4>AR Cultural Heritage Learning</h4>
+              <h4>CalmDen</h4>
             </div>
-            <p> AY2021-2022 FMP. An Exploratory Study Examining Culture Heritage Knowledge Retention When Using Augmented Reality Mobile Applications </p>
-            <p> Student: Jie Lin. </p>
+            <p> An Exploratory Study Designing a Smart Dog Kennel to Reduce Separation Anxiety in Pets through Using Sensing Technologies </p>
+            <p> Student: Linfa Wang, Kaifan Wu. </p>
           </div>
         </div>  
       </div>
@@ -86,8 +54,8 @@ For SJTU students who are interested in doing projects with me, please feel free
             <div class="card__header">
               <h4>Optimising CubeMuseum AR</h4>
             </div>
-            <p> AY2021-2022 FMP. Optimising CubeMuseum For Cultural Artifact Learning and Museum Gifting: A Participatory Design Approach </p>
-            <p> Student: Ningning Xu. </p>
+            <p> Optimising CubeMuseum For Cultural Artifact Learning and Museum Gifting: A Participatory Design Approach </p>
+            <p> Student: Junxiang Ren, Zixu Guo. </p>
           </div>
         </div>  
       </div>
@@ -100,10 +68,10 @@ For SJTU students who are interested in doing projects with me, please feel free
           </div>
           <div class="card__content">
             <div class="card__header">
-              <h4>User Acceptance of 360° Virtual Navigation</h4>
+              <h4>XAI in Human-computer interaction</h4>
             </div>
-            <p> AY2021-2022 FMP. Investigating User Acceptance of 360° Virtual Navigation </p>
-            <p> Student: Enhao Yang. </p>
+            <p> Investigating the possibility of enhancing accuracy and the precision through XAI and HCI </p>
+            <p> Student: Lin Sheng. Co-supervising with Prof. Zhenyu Gu </p>
           </div>
         </div>  
       </div>
@@ -116,9 +84,9 @@ For SJTU students who are interested in doing projects with me, please feel free
           </div>
           <div class="card__content">
             <div class="card__header">
-              <h4>VR Museum Curator</h4>
+              <h4>MooHealth</h4>
             </div>
-            <p> 2021 SURF Project. Presenting Cultural Artefacts Using Virtual and Augmented Reality. Students (in alphabetical order): Ruizhe Kan, Jiangyue Li, Xingbo Wei, Mingze Wu, Letian Xie, Ningning Xu, and Ruixiang Zhao.</p>
+            <p> Presenting Cultural Artefacts Using Virtual and Augmented Reality. Students (in alphabetical order): Ruizhe Kan, Jiangyue Li, Xingbo Wei, Mingze Wu, Letian Xie, Ningning Xu, and Ruixiang Zhao.</p>
             <p> @ XJTLU, Suzhou. </p>
           </div>
         </div>  
@@ -135,7 +103,7 @@ For SJTU students who are interested in doing projects with me, please feel free
               <h4>CubeMuseum AR</h4>
             </div>
             <p> 2021 SURF Project. Presenting Cultural Artefacts Using Virtual and Augmented Reality. Students (in alphabetical order): Ruizhe Kan, Jiangyue Li, Xingbo Wei, Mingze Wu, Letian Xie, Ningning Xu, and Ruixiang Zhao. </p>
-            <p> @ XJTLU, Suzhou. </p>
+            <p> @ SJTU, Shanghai. </p>
             <p>
             </p>
           </div>
@@ -150,10 +118,10 @@ For SJTU students who are interested in doing projects with me, please feel free
           </div>
           <div class="card__content">
             <div class="card__header">
-              <h4>Digital Campus @ XJTLU</h4>
+              <h4>Digital Campus @ SJTU</h4>
             </div>
-            <p> <b>PI</b>. With Prof Yong Yue, Prof Eng Gee Lim, Dr Hai Ning Liang, Dr Cheng Zhang and Qilei Sun.</p>
-            <p> @ Virtual Engineering Centre, Suzhou. </p>
+            <p> <b>PI</b>. With Prof Yong Yue, Prof Eng Gee Lim</p>
+            <p> @ Shanghai Jiao Tong University, Shanghai. </p>
             <p><a class="button button--secondary button--pill" href="https://www.researchgate.net/publication/344780928_Digital_Campus_with_Virtual_Reality_from_Immersive_Visualization_to_Interactive_Experience">PDF</a></p>
           </div>
         </div>  
