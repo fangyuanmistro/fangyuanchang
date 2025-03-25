@@ -72,10 +72,10 @@ For SJTU students who are interested in doing projects with me, please feel free
           </div>
           <div class="card__content">
             <div class="card__header">
-              <h4>Nectarin Health: Wearables for Eldercare Management</h4>
+              <h4>Nectarine Health: Wearables for Eldercare Management</h4>
             </div>
             <p> Developing a system consisting of wearables and audio devices that enable real-time monitoring and direct communication</p>
-            <p> <b>PI</b>. With Prof Britt Ostlund</p>
+            <p> <b>PhD project</b>. [With Prof Britt Ostlund]</p>
             <p> @ KTH, Sweden; Vardaga, Sweden. </p>
             <p><a class="button button--secondary button--pill" href="https://www.researchgate.net/publication/370559601_Domesticating_Social_Alarm_Systems_in_Nursing_Homes_Qualitative_Study_of_Differences_in_the_Perspectives_of_Assistant_Nurses">PDF</a></p>
             <p>
@@ -94,6 +94,7 @@ For SJTU students who are interested in doing projects with me, please feel free
             <div class="card__header">
               <h4>Digital Campus @ SJTU</h4>
             </div>
+            <p> Contextualizing and visualizing the dynamics of actants in SJTU campus</p>
             <p> <b>PI</b>. With Fumie Muroi, Lin Sheng</p>
             <p> @ Shanghai Jiao Tong University, Shanghai. </p>
           </div>
@@ -110,33 +111,11 @@ For SJTU students who are interested in doing projects with me, please feel free
             <div class="card__header">
               <h4>GenAI for Interior Dungeon Game Scenes</h4>
             </div>
-            <p> Developing a neck-collar-based system that monitors cattle health 24/7 to detect illnesses early</p>
-            <p> Students: Zhonghao Shi [with Assoc. Prof. Wei Tang] </p>
-            <p> . With Prof Gu. </p>
+            <p> Developing interior Dungeon game scenes through Generative AI</p>
+            <p> Students: Xinyu Wu [with Prof. Zhenyu Gu] </p>
             <p> @ SJTU, Shanghai. </p>
             <p>
             <a class="button button--secondary button--pill" href="https://v.qq.com/x/page/h3008m8j4ji.html">Demo</a>
-            </p>
-          </div>
-        </div>  
-      </div>
-    </div>
-    <div class="cell cell--4">
-      <div>
-        <div class="card">
-          <div class="card__image">
-            <img class="image" src="/assets/projects/project-hvar1.png"/>
-          </div>
-          <div class="card__content">
-            <div class="card__header">
-              <h4>HVAR: Hybrid Virtual and Augmented Reality</h4>
-            </div>
-            <p><b>PI</b>. With Prof Eugene Ch'ng, Dr Sue Cobb and Prof Simon See.</p>
-            <p>@ NVIDIA Joint-Lab on Mixed Reality, Ningbo. </p>
-            <p>            
-            <a class="button button--secondary button--pill" href="https://www.researchgate.net/publication/326983773_Multiuser_Interaction_with_Hybrid_VR_and_AR_for_Cultural_Heritage_Objects">PDF</a>
-            <a class="button button--secondary button--pill" href="https://doi.org/10.1109/DigitalHeritage.2018.8810126">DOI</a>
-            <a class="button button--secondary button--pill" href="https://v.qq.com/x/page/n3137g5l0bo.html">Demo</a>
             </p>
           </div>
         </div>  
