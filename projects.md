@@ -58,6 +58,7 @@ For SJTU students who are interested in doing projects with me, please feel free
             <p> Developing a neck-collar-based system that monitors cattle health 24/7 to detect illnesses early</p>
             <p> Students: Zhonghao Shi [with Assoc. Prof. Wei Tang] </p>
             <p> @ SJTU, Shanghai; BrightDairy, Shanghai. </p>
+            <p><a class="button button--secondary button--pill" href="https://www.researchgate.net/publication/378321419_Advancing_Cattle_Health_Monitoring_through_ACI-Driven_Wearable_Sensor_Technology_A_Case_Study_of_Leg-Worn_System_Development?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InByb2ZpbGUiLCJwYWdlIjoicHJvZmlsZSJ9fQ">PDF</a></p>
           </div>
         </div>  
       </div>
@@ -72,8 +73,9 @@ For SJTU students who are interested in doing projects with me, please feel free
             <div class="card__header">
               <h4>Nectarin Health: Wearables for Eldercare Management</h4>
             </div>
-            <p> 2021 SURF Project. Presenting Cultural Artefacts Using Virtual and Augmented Reality. Students (in alphabetical order): Ruizhe Kan, Jiangyue Li, Xingbo Wei, Mingze Wu, Letian Xie, Ningning Xu, and Ruixiang Zhao. </p>
-            <p> @ SJTU, Shanghai. </p>
+            <p> <b>PI</b>. With Prof Yong Yue, Prof Eng Gee Lim</p>
+            <p> @ KTH, Sweden; Vardaga, Sweden. </p>
+            <p><a class="button button--secondary button--pill" href="https://www.researchgate.net/publication/344780928_Digital_Campus_with_Virtual_Reality_from_Immersive_Visualization_to_Interactive_Experience">PDF</a></p>
             <p>
             </p>
           </div>
@@ -90,9 +92,8 @@ For SJTU students who are interested in doing projects with me, please feel free
             <div class="card__header">
               <h4>Digital Campus @ SJTU</h4>
             </div>
-            <p> <b>PI</b>. With Prof Yong Yue, Prof Eng Gee Lim</p>
+            <p> <b>PI</b>. With Fumie Muroi, Lin Sheng</p>
             <p> @ Shanghai Jiao Tong University, Shanghai. </p>
-            <p><a class="button button--secondary button--pill" href="https://www.researchgate.net/publication/344780928_Digital_Campus_with_Virtual_Reality_from_Immersive_Visualization_to_Interactive_Experience">PDF</a></p>
           </div>
         </div>  
       </div>
