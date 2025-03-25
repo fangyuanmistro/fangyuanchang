@@ -36,11 +36,10 @@ For SJTU students who are interested in doing projects with me, please feel free
           </div>
           <div class="card__content">
             <div class="card__header">
-              <h4>XAI and Responsible AI in Human-computer Decisions</h4>
+              <h4>Transparency in Collaborative Human-AI Decision Making</h4>
             </div>
-            <p> Investigating the possibility of enhancing accuracy and precision through XAI and responsible AI</p>
-            <p> Student: Lin Sheng [PhD Project]</p> 
-            <p> Collaboration with Prof. Zhenyu Gu </p>
+            <p> Understanding interactivity with AI in decision-making and fostering interaction designs for achieving clear communication</p>
+            <p> Student: Lin Sheng [with Prof. Zhenyu Gu] </p>
             <p> @ SJTU, Shanghai; Huawei, Shenzhen. </p>
           </div>
         </div>  
@@ -54,12 +53,11 @@ For SJTU students who are interested in doing projects with me, please feel free
           </div>
           <div class="card__content">
             <div class="card__header">
-              <h4>MooHealth</h4>
+              <h4>MooHealth: Wearables for Cattle Health Monitoring</h4>
             </div>
-            <p> Presenting Cultural Artefacts Using Virtual and Augmented Reality.</p>
-            <p> Students: Zhonghao Shi, Yuanzhen Jia.</p>
-            <p> Collaboration with Assoc. Prof. Wei Tang </p>
-            <p> @ SJTU, Shanghai; NAU, Nanjing. </p>
+            <p> Developing a neck-collar-based system that monitors cattle health 24/7 to detect illnesses early</p>
+            <p> Students: Zhonghao Shi [with Assoc. Prof. Wei Tang] </p>
+            <p> @ SJTU, Shanghai; BrightDairy, Shanghai. </p>
           </div>
         </div>  
       </div>
@@ -72,7 +70,7 @@ For SJTU students who are interested in doing projects with me, please feel free
           </div>
           <div class="card__content">
             <div class="card__header">
-              <h4>CubeMuseum AR</h4>
+              <h4>Nectarin Health: Wearables for Eldercare Management</h4>
             </div>
             <p> 2021 SURF Project. Presenting Cultural Artefacts Using Virtual and Augmented Reality. Students (in alphabetical order): Ruizhe Kan, Jiangyue Li, Xingbo Wei, Mingze Wu, Letian Xie, Ningning Xu, and Ruixiang Zhao. </p>
             <p> @ SJTU, Shanghai. </p>
@@ -107,10 +105,12 @@ For SJTU students who are interested in doing projects with me, please feel free
           </div>
           <div class="card__content">
             <div class="card__header">
-              <h4>User Engagement in HVAR</h4>
+              <h4>GenAI for Interior Dungeon Game Scenes</h4>
             </div>
-            <p> <b>PI</b>. With Prof Eugene Ch'ng and Dr Sue Cobb. </p>
-            <p> @ NVIDIA Joint-Lab on Mixed Reality, Ningbo. </p>
+            <p> Developing a neck-collar-based system that monitors cattle health 24/7 to detect illnesses early</p>
+            <p> Students: Zhonghao Shi [with Assoc. Prof. Wei Tang] </p>
+            <p> . With Prof Gu. </p>
+            <p> @ SJTU, Shanghai. </p>
             <p>
             <a class="button button--secondary button--pill" href="https://v.qq.com/x/page/h3008m8j4ji.html">Demo</a>
             </p>
