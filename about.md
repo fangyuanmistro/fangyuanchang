@@ -4,7 +4,7 @@ titles: About
 ---
 
 
-<a href="[https://designschool.sjtu.edu.cn/teacher/31104c124abec4f853ad19c8530ab586/lecture/detail/6605572483c266cf0992c585](https://designschool.sjtu.edu.cn/teacher/31104c124abec4f853ad19c8530ab586/lecture/detail/6605572483c266cf0992c585)"><img src="[https://designschool.sjtu.edu.cn/static/WechatIMG755-1732085107404.jpg](https://designschool.sjtu.edu.cn/static/WechatIMG755-1732085107404.jpg)" height="auto" width="200" style="border-radius:3%; float: left"></a>
+<a href="https://designschool.sjtu.edu.cn/teacher/31104c124abec4f853ad19c8530ab586/lecture/detail/6605572483c266cf0992c585](https://designschool.sjtu.edu.cn/teacher/31104c124abec4f853ad19c8530ab586/lecture/detail/6605572483c266cf0992c585"><img src="https://designschool.sjtu.edu.cn/static/WechatIMG755-1732085107404.jpg" height="auto" width="200" style="border-radius:3%; float: left"></a>
 
 I am an Assistant Professor at the Department of Design, Shanghai Jiao Tong University. 
 
