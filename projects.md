@@ -41,7 +41,7 @@ For SJTU students who are interested in doing projects with me, please feel free
             <p> Understanding interactivity with AI in decision-making and fostering interaction designs for achieving clear communication</p>
             <p> Student: Lin Sheng [with Prof. Zhenyu Gu] </p>
             <p> @ SJTU, Shanghai; Huawei, Shenzhen. </p>
-            <p><a class="button button--secondary button--pill" href=https://www.researchgate.net/publication/376403428_A_Novel_Integration_Strategy_for_Uncertain_Knowledge_in_Group_Decision-Making_with_Artificial_Opinions_A_DSFIT-SOA-DEMATEL_Approach">PDF</a></p>
+            <p><a class="button button--secondary button--pill" href="https://www.researchgate.net/publication/376403428_A_Novel_Integration_Strategy_for_Uncertain_Knowledge_in_Group_Decision-Making_with_Artificial_Opinions_A_DSFIT-SOA-DEMATEL_Approach">PDF</a></p>
           </div>
         </div>  
       </div>
