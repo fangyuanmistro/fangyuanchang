@@ -75,7 +75,7 @@ For SJTU students who are interested in doing projects with me, please feel free
               <h4>Nectarine Health: Wearables for Eldercare Management</h4>
             </div>
             <p> Developing a system consisting of wearables and audio devices that enable real-time monitoring and direct communication</p>
-            <p> <b>PhD project</b>. [With Prof Britt Ostlund]</p>
+            <p> PhD project [With Prof Britt Ostlund]</p>
             <p> @ KTH, Sweden; Vardaga, Sweden. </p>
             <p><a class="button button--secondary button--pill" href="https://www.researchgate.net/publication/370559601_Domesticating_Social_Alarm_Systems_in_Nursing_Homes_Qualitative_Study_of_Differences_in_the_Perspectives_of_Assistant_Nurses">PDF</a></p>
             <p>
