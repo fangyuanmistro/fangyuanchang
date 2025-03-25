@@ -32,50 +32,20 @@ For SJTU students who are interested in doing projects with me, please feel free
       <div>
         <div class="card">
           <div class="card__image">
-            <img class="image" src="/assets/projects/project-fmp-21-jielin.png"/>
-          </div>
-          <div class="card__content">
-            <div class="card__header">
-              <h4>CalmDen</h4>
-            </div>
-            <p> An Exploratory Study Designing a Smart Dog Kennel to Reduce Separation Anxiety in Pets through Using Sensing Technologies </p>
-            <p> Student: Linfa Wang, Kaifan Wu. </p>
-          </div>
-        </div>  
-      </div>
-    </div>
-    <div class="cell cell--4">
-      <div>
-        <div class="card">
-          <div class="card__image">
-            <img class="image" src="/assets/projects/project-fmp-21-ningningxu.png"/>
-          </div>
-          <div class="card__content">
-            <div class="card__header">
-              <h4>Optimising CubeMuseum AR</h4>
-            </div>
-            <p> Optimising CubeMuseum For Cultural Artifact Learning and Museum Gifting: A Participatory Design Approach </p>
-            <p> Student: Junxiang Ren, Zixu Guo. </p>
-          </div>
-        </div>  
-      </div>
-    </div>
-    <!-- <div class="cell cell--4">
-      <div>
-        <div class="card">
-          <div class="card__image">
             <img class="image" src="/assets/projects/project-fmp-21-enhaoyang.png"/>
           </div>
           <div class="card__content">
             <div class="card__header">
-              <h4>XAI in Human-computer interaction</h4>
+              <h4>XAI and Responsible AI in Human-computer Decisions</h4>
             </div>
-            <p> Investigating the possibility of enhancing accuracy and the precision through XAI and HCI </p>
-            <p> Student: Lin Sheng. Co-supervising with Prof. Zhenyu Gu </p>
+            <p> Investigating the possibility of enhancing accuracy and precision through XAI and responsible AI</p>
+            <p> Student: Lin Sheng [PhD Project]</p> 
+            <p> Collaboration with Prof. Zhenyu Gu </p>
+            <p> @ SJTU, Shanghai; Huawei, Shenzhen. </p>
           </div>
         </div>  
       </div>
-    </div> -->
+    </div> 
     <div class="cell cell--4">
       <div>
         <div class="card">
@@ -86,8 +56,10 @@ For SJTU students who are interested in doing projects with me, please feel free
             <div class="card__header">
               <h4>MooHealth</h4>
             </div>
-            <p> Presenting Cultural Artefacts Using Virtual and Augmented Reality. Students (in alphabetical order): Ruizhe Kan, Jiangyue Li, Xingbo Wei, Mingze Wu, Letian Xie, Ningning Xu, and Ruixiang Zhao.</p>
-            <p> @ XJTLU, Suzhou. </p>
+            <p> Presenting Cultural Artefacts Using Virtual and Augmented Reality.</p>
+            <p> Students: Zhonghao Shi, Yuanzhen Jia.</p>
+            <p> Collaboration with Assoc. Prof. Wei Tang </p>
+            <p> @ SJTU, Shanghai; NAU, Nanjing. </p>
           </div>
         </div>  
       </div>
@@ -163,6 +135,38 @@ For SJTU students who are interested in doing projects with me, please feel free
             <a class="button button--secondary button--pill" href="https://doi.org/10.1109/DigitalHeritage.2018.8810126">DOI</a>
             <a class="button button--secondary button--pill" href="https://v.qq.com/x/page/n3137g5l0bo.html">Demo</a>
             </p>
+          </div>
+        </div>  
+      </div>
+    </div>
+        <div class="cell cell--4">
+      <div>
+        <div class="card">
+          <div class="card__image">
+            <img class="image" src="/assets/projects/project-fmp-21-jielin.png"/>
+          </div>
+          <div class="card__content">
+            <div class="card__header">
+              <h4>CalmDen</h4>
+            </div>
+            <p> An Exploratory Study Designing a Smart Dog Kennel to Reduce Separation Anxiety in Pets through Using Sensing Technologies </p>
+            <p> Student: Linfa Wang, Kaifan Wu. </p>
+          </div>
+        </div>  
+      </div>
+    </div>
+    <div class="cell cell--4">
+      <div>
+        <div class="card">
+          <div class="card__image">
+            <img class="image" src="/assets/projects/project-fmp-21-ningningxu.png"/>
+          </div>
+          <div class="card__content">
+            <div class="card__header">
+              <h4>Optimising CubeMuseum AR</h4>
+            </div>
+            <p> Optimising CubeMuseum For Cultural Artifact Learning and Museum Gifting: A Participatory Design Approach </p>
+            <p> Student: Junxiang Ren, Zixu Guo. </p>
           </div>
         </div>  
       </div>
