@@ -4,11 +4,11 @@ titles: About
 ---
 
 
-<a href="[https://scholar.xjtlu.edu.cn/en/persons/YueLi](https://designschool.sjtu.edu.cn/teacher/31104c124abec4f853ad19c8530ab586/lecture/detail/6605572483c266cf0992c585)"><img src="[http://profile.xjtlu.edu.cn/upload/8PWcWXwozR9kbffOuAYO.jpg](https://designschool.sjtu.edu.cn/static/WechatIMG755-1732085107404.jpg)" height="auto" width="200" style="border-radius:3%; float: left"></a>
+<a href="[https://designschool.sjtu.edu.cn/teacher/31104c124abec4f853ad19c8530ab586/lecture/detail/6605572483c266cf0992c585](https://designschool.sjtu.edu.cn/teacher/31104c124abec4f853ad19c8530ab586/lecture/detail/6605572483c266cf0992c585)"><img src="[https://designschool.sjtu.edu.cn/static/WechatIMG755-1732085107404.jpg](https://designschool.sjtu.edu.cn/static/WechatIMG755-1732085107404.jpg)" height="auto" width="200" style="border-radius:3%; float: left"></a>
 
 I am an Assistant Professor at the Department of Design, Shanghai Jiao Tong University. 
 
-My research interest lies at the intersection between **Human Computer Interaction (HCI)** and **Studies of Technology and Society (STS)**, with particular emphasis on **Sensing** technologies. I have been actively involved in research related to the design, evaluation, and application of **sensor-based systems** as well as **AR/VR** in **eldercare**, **education** and **cultural heritage**. 
+My research interest lies at the intersection between **Human-Computer Interaction (HCI)**, **Process Evaluation** and **Studies of Technology and Society (STS)**, with particular emphasis on **Sensing** technologies. Through interdisciplinary methods, I strive to unravel the complexities inherent in the mutual shaping of humans and technologies within daily practices. I have been actively involved in research related to the design, evaluation, and application of **sensor-based systems**, **wearables** as well as **AR/VR** in **long-term care**, **mental health** and **cultural heritage**. 
 
 Currently I am leading several prestigious research grants, including the Young Scientist Programme of the **National Natural Science Foundation of China (NSFC)** and the Young Scientist Programme of the **Shanghai Magnolia Talent Plan Pujiang Project**. My scholarly contributions have been published in esteemed international journals and conferences such as Innovation in Aging, Medical Internet Research, ACM CHI, and so on. I also hold an executive member role in the CCF HCI Committee and I am a professional member of ASA, IEEE, Socio-gerontechnology Nerwork, and DRS. My commitment to the field is underscored by my long-standing service and regular engagement as an editorial board member, program committee member, and reviewer for international journals and conferences. 
 
@@ -44,8 +44,7 @@ Currently I am leading several prestigious research grants, including the Young 
       Room 320, School of Design<br>
       Shanghai Jiao Tong University<br>
       No 800, Dongchuan Road<br>
-      Minhang Strict<br>
-      Shanghai, China<br>
+      Minhang Strict, Shanghai, China<br>
       200240
     </p>
   </div>
