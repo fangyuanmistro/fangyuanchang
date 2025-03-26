@@ -95,7 +95,7 @@ For SJTU students who are interested in doing projects with me, please feel free
               <h4>Digital MoMo Campus @ SJTU</h4>
             </div>
             <p> Contextualizing and Visualizing the Dynamics of Actants in the SJTU Campus</p>
-            <p> <b>PI</b>. With Lin Sheng</p>
+            <p> <b>PI</b>. Student: Lin Sheng; Fumie Muroi.</p>
             <p> @ SJTU, Shanghai. </p>
           </div>
         </div>  
