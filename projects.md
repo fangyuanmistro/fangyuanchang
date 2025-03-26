@@ -179,7 +179,7 @@ For SJTU students who are interested in doing projects with me, please feel free
           </div>
           <div class="card__content">
             <div class="card__header">
-              <h4>Near Past Memory VR</h4>
+              <h4>The Time Traveler: Feeling the Near Past</h4>
             </div>
             <p> Using Past Memory through VR Devices to Train Older Adults with MCI </p>
             <b>PI</b>. With Prof. Zhenyu Gu </p>
