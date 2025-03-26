@@ -6,7 +6,14 @@ titles: About
 
 <a href="https://designschool.sjtu.edu.cn/teacher/31104c124abec4f853ad19c8530ab586/lecture/detail/6605572483c266cf0992c585"><img src="https://designschool.sjtu.edu.cn/static/WechatIMG755-1732085107404.jpg" height="auto" width="200" style="border-radius:5%; float: left"></a>
 
-## I am an Assistant Professor at the Department of Design, Shanghai Jiao Tong University.
+
+
+
+
+
+
+
+I am an Assistant Professor at the Department of Design, Shanghai Jiao Tong University.
 
 My research interest lies at the intersection between **Human-Computer Interaction (HCI)**, **Digital Ethnography** and **Studies of Technology and Society (STS)**, with particular emphasis on **Sensing** technologies (e.g. Wearables, VR/AR). Through interdisciplinary methods, I strive to unravel the complexities inherent in the mutual shaping of humans/non-humans and technologies within daily practices. I have been actively involved in research related to the design, evaluation, and application of **sensor-based technologies** in **long-term care**, **mental health** and **cultural heritage**. 
 
