@@ -129,10 +129,10 @@ For SJTU students who are interested in doing projects with me, please feel free
           </div>
           <div class="card__content">
             <div class="card__header">
-              <h4>CalmDen</h4>
+              <h4>CalmDen: Sensing the Separation Anxiety</h4>
             </div>
-            <p> An Exploratory Study Designing a Smart Dog Kennel to Reduce Separation Anxiety in Pets through Using Sensing Technologies </p>
-            <p> Student: Linfa Wang, Kaifan Wu. </p>
+            <p> Designing a Smart Dog Kennel to Reduce Separation Anxiety in Pets</p>
+            <p> <b>PI</b>. Student: Linfa Wang, Kaifan Wu. </p>
           </div>
         </div>  
       </div>
