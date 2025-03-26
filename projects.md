@@ -162,8 +162,9 @@ For SJTU students who are interested in doing projects with me, please feel free
           </div>
           <div class="card__content">
             <div class="card__header">
-              <h4>AromaBot: Smelling the Trustworthiness and Likeness</h4>
+              <h4>AromaBot: Smelling User Trustworthiness</h4>
             </div>
+            <p> Investigating the Congruency of Olfaction and Auditory Stimuli on HRI </p>
             <p><b>PI</b>. With Prof. Zhenyu Gu </p>
             <p> @ SJTU, Shanghai.</p> 
             <p> 
