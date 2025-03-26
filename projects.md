@@ -92,10 +92,10 @@ For SJTU students who are interested in doing projects with me, please feel free
           </div>
           <div class="card__content">
             <div class="card__header">
-              <h4>Digital Campus @ SJTU</h4>
+              <h4>Digital MoMo Campus @ SJTU</h4>
             </div>
             <p> Contextualizing and visualizing the dynamics of actants in SJTU campus</p>
-            <p> <b>PI</b>. With Fumie Muroi, Lin Sheng</p>
+            <p> <b>PI</b>. With Lin Sheng</p>
             <p> @ Shanghai Jiao Tong University, Shanghai. </p>
           </div>
         </div>  
@@ -145,10 +145,10 @@ For SJTU students who are interested in doing projects with me, please feel free
           </div>
           <div class="card__content">
             <div class="card__header">
-              <h4>Optimising CubeMuseum AR</h4>
+              <h4>Optimising CubeMuseum VR</h4>
             </div>
-            <p> Optimising CubeMuseum For Cultural Artifact Learning and Museum Gifting: A Participatory Design Approach </p>
-            <p> Student: Junxiang Ren, Zixu Guo. </p>
+            <p> Optimising CubeMuseum For Cultural Artifact Learning and Museum Gifting </p>
+            <p> Student: Junxiang Ren, Zixu Guo. [with Assis. Prof. Andong Zhang] </p>
           </div>
         </div>  
       </div>
