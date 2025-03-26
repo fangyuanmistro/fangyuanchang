@@ -17,7 +17,7 @@ If you have experience and interest in the above positions, please feel free to 
 - Collaboration Technology Design for Human-Pet Interaction
 - Immersive Experience Design through Multimodal Stimuli in Human-Robot Interaction 
 - Virtual Reality Education Technology for Smart Museums
-- - ... any other projects that align with my research interests :)
+- ... any other projects that align with my research interests :)
 
 
 ## Student Projects
@@ -94,9 +94,9 @@ For SJTU students who are interested in doing projects with me, please feel free
             <div class="card__header">
               <h4>Digital MoMo Campus @ SJTU</h4>
             </div>
-            <p> Contextualizing and visualizing the dynamics of actants in the SJTU campus</p>
+            <p> Contextualizing and Visualizing the Dynamics of Actants in the SJTU Campus</p>
             <p> <b>PI</b>. With Lin Sheng</p>
-            <p> @ Shanghai Jiao Tong University, Shanghai. </p>
+            <p> @ SJTU, Shanghai. </p>
           </div>
         </div>  
       </div>
@@ -111,12 +111,9 @@ For SJTU students who are interested in doing projects with me, please feel free
             <div class="card__header">
               <h4>GenAI for Interior Dungeon Game Scenes</h4>
             </div>
-            <p> Developing interior Dungeon game scenes through Generative AI</p>
+            <p> Developing Interior Dungeon Game Scenes through Generative AI</p>
             <p> Students: Xinyu Wu [with Prof. Zhenyu Gu] </p>
             <p> @ SJTU, Shanghai. </p>
-            <p>
-            <a class="button button--secondary button--pill" href="https://v.qq.com/x/page/h3008m8j4ji.html">Demo</a>
-            </p>
           </div>
         </div>  
       </div>
@@ -149,7 +146,8 @@ For SJTU students who are interested in doing projects with me, please feel free
               <h4>Optimising CubeMuseum VR</h4>
             </div>
             <p> Optimising CubeMuseum For Cultural Artifact Learning and Museum Gifting </p>
-            <p> Student: Junxiang Ren, Zixu Guo. [with Assis. Prof. Andong Zhang] </p>
+            <p> Student: Zixu Guo. [with Assis. Prof. Andong Zhang] </p>
+            <p> @ SJTU, Shanghai. </p>
           </div>
         </div>  
       </div>
@@ -177,40 +175,15 @@ For SJTU students who are interested in doing projects with me, please feel free
       <div>
         <div class="card">
           <div class="card__image">
-            <img class="image" src="/assets/projects/project-sanjiangkou.png"/>
-          </div>
-          <div class="card__content">
-            <div class="card__header">
-              <h4>Ningbo Sanjiangkou VR</h4>
-            </div>
-            <p><b>Member</b>. With Prof Eugene Ch'ng, Shengdan Cai, Danzhao Cheng and Dr Fui-Theng Leow. </p>
-            <p> @ NVIDIA Joint-Lab on Mixed Reality, Ningbo. </p>
-            <p>
-            <a class="button button--secondary button--pill" href="https://www.researchgate.net/publication/335527826_The_Effects_of_VR_Environments_on_the_Acceptance_Experience_and_Expectations_of_Cultural_Heritage_Learning">PDF</a>
-            <a class="button button--secondary button--pill" href="http://dx.doi.org/10.1145/3352933">DOI</a>
-            <a class="button button--secondary button--pill" href="https://www.youtube.com/watch?v=cRad6c-Ef3k">Demo</a>
-            </p>
-          </div>
-        </div>  
-      </div>
-    </div>
-    <div class="cell cell--4">
-      <div>
-        <div class="card">
-          <div class="card__image">
             <img class="image" src="/assets/projects/project-memoryvr.png"/>
           </div>
           <div class="card__content">
             <div class="card__header">
               <h4>Near Past Memory VR</h4>
             </div>
-            <p><b>Member</b>. With Shengdan Cai and Prof Eugene Ch'ng. </p>
-            <p> @ NVIDIA Joint-Lab on Mixed Reality, Ningbo. </p>
-            <p>
-            <a class="button button--secondary button--pill" href="https://www.researchgate.net/publication/327592428_A_Comparison_of_the_Capacities_of_VR_and_360-Degree_Video_for_Coordinating_Memory_in_the_Experience_of_Cultural_Heritage">PDF</a>
-            <a class="button button--secondary button--pill" href="http://dx.doi.org/10.1109/DigitalHeritage.2018.8810127">DOI</a>
-            <a class="button button--secondary button--pill" href="https://www.youtube.com/watch?v=VqFHahbpwNc">Demo</a>
-            </p>
+            <p> Using Past Memory through VR Devices to Train Older Adults with MCI </p>
+            <b>PI</b>. With Prof. Zhenyu Gu </p>
+            <p> @ SJTU, Shanghai. </p>
           </div>
         </div>  
       </div>
