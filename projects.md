@@ -146,7 +146,7 @@ For SJTU students who are interested in doing projects with me, please feel free
               <h4>Optimising CubeMuseum VR</h4>
             </div>
             <p> Optimising CubeMuseum For Cultural Artifact Learning and Museum Gifting </p>
-            <p> Student: Zixu Guo. [with Assis. Prof. Andong Zhang] </p>
+            <p> Student: Zixu Guo [with Asst. Prof. Andong Zhang] </p>
             <p> @ SJTU, Shanghai. </p>
           </div>
         </div>  
@@ -182,7 +182,7 @@ For SJTU students who are interested in doing projects with me, please feel free
               <h4>The Time Traveler: Feeling the Near Past</h4>
             </div>
             <p> Using Past Memory through VR Devices to Train Older Adults with MCI </p>
-            <b>PI</b>. With Prof. Zhenyu Gu </p>
+            <p> <b>PI</b>. With Prof. Zhenyu Gu </p>
             <p> @ SJTU, Shanghai. </p>
           </div>
         </div>  
