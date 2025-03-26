@@ -3,12 +3,10 @@ layout: article
 titles: About
 ---
 
-<div>
-  <p>
+<div style="display: flex; align-items: center; gap: 20px;">
 <a href="https://designschool.sjtu.edu.cn/teacher/31104c124abec4f853ad19c8530ab586/lecture/detail/6605572483c266cf0992c585"><img src="https://designschool.sjtu.edu.cn/static/WechatIMG755-1732085107404.jpg" height="auto" width="200" style="border-radius:5%; float: left"></a>
-  </p>
-</div>
 
+</div>
 
 I am an Assistant Professor at the Department of Design, Shanghai Jiao Tong University.
 
