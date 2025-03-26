@@ -14,8 +14,8 @@ If you have experience and interest in the above positions, please feel free to 
 
 #### Research Assistant Projects
 
-- Collaboration Technology Design for Human-pet Interaction
-- Immersive Experience Design through Multimodal Stimuli in Human-robot Interaction 
+- Collaboration Technology Design for Human-Pet Interaction
+- Immersive Experience Design through Multimodal Stimuli in Human-Robot Interaction 
 - Virtual Reality Education Technology for Smart Museums
 - - ... any other projects that align with my research interests :)
 
@@ -94,7 +94,7 @@ For SJTU students who are interested in doing projects with me, please feel free
             <div class="card__header">
               <h4>Digital MoMo Campus @ SJTU</h4>
             </div>
-            <p> Contextualizing and visualizing the dynamics of actants in SJTU campus</p>
+            <p> Contextualizing and visualizing the dynamics of actants in the SJTU campus</p>
             <p> <b>PI</b>. With Lin Sheng</p>
             <p> @ Shanghai Jiao Tong University, Shanghai. </p>
           </div>
@@ -133,6 +133,7 @@ For SJTU students who are interested in doing projects with me, please feel free
             </div>
             <p> Designing a Smart Dog Kennel to Reduce Separation Anxiety in Pets</p>
             <p> <b>PI</b>. Student: Linfa Wang, Kaifan Wu. </p>
+            <p> @ SJTU, Shanghai. </p>
           </div>
         </div>  
       </div>
@@ -161,13 +162,11 @@ For SJTU students who are interested in doing projects with me, please feel free
           </div>
           <div class="card__content">
             <div class="card__header">
-              <h4>Mobile VR with AR Control</h4>
+              <h4>AromaBot: Smelling the Trustworthiness and Likeness</h4>
             </div>
-            <p><b>PI</b>. With Dr Paul Tennent and Dr Sue Cobb. </p>
-            <p> @ Mixed Reality Lab, Nottingham UK.</p> 
+            <p><b>PI</b>. With Prof. Zhenyu Gu </p>
+            <p> @ SJTU, Shanghai.</p> 
             <p> 
-            <a class="button button--secondary button--pill" href="https://www.researchgate.net/publication/329603560_Appropriate_Control_Methods_for_Mobile_Virtual_Exhibitions_First_International_Conference_VRTCH_2018_Brasov_Romania_May_29-30_2018_Revised_Selected_Papers">PDF</a>
-            <a class="button button--secondary button--pill" href="http://dx.doi.org/10.1007/978-3-030-05819-7_13">DOI</a>
             </p>
           </div>
         </div>  
