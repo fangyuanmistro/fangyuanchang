@@ -3,16 +3,19 @@ layout: article
 titles: About
 ---
 
-
-<a href="https://designschool.sjtu.edu.cn/teacher/31104c124abec4f853ad19c8530ab586/lecture/detail/6605572483c266cf0992c585"><img src="https://designschool.sjtu.edu.cn/static/WechatIMG755-1732085107404.jpg" height="auto" width="200" style="border-radius:5%; float: left"></a>
-
 <div>
+  <p>
+<a href="https://designschool.sjtu.edu.cn/teacher/31104c124abec4f853ad19c8530ab586/lecture/detail/6605572483c266cf0992c585"><img src="https://designschool.sjtu.edu.cn/static/WechatIMG755-1732085107404.jpg" height="auto" width="200" style="border-radius:5%; float: left"></a>
+  </p>
+</div>
+
+
 I am an Assistant Professor at the Department of Design, Shanghai Jiao Tong University.
 
 My research interest lies at the intersection between **Human-Computer Interaction (HCI)**, **Digital Ethnography** and **Studies of Technology and Society (STS)**, with particular emphasis on **Sensing** technologies (e.g. Wearables, VR/AR). Through interdisciplinary methods, I strive to unravel the complexities inherent in the mutual shaping of humans/non-humans and technologies within daily practices. I have been actively involved in research related to the design, evaluation, and application of **sensor-based technologies** in **long-term care**, **mental health** and **rural cultural**. 
 
-Currently I am leading several prestigious research grants, including the Young Scientist Programme of the **National Natural Science Foundation of China (NSFC)** and the Young Scientist Programme of the **Shanghai Magnolia Talent Plan Pujiang Project**. My scholarly contributions have been published in esteemed international journals and conferences such as Innovation in Aging, Medical Internet Research, ACM CHI, and so on. I also hold an executive member role in the CCF HCI Committee and I am a professional member of ASA, IEEE, Socio-gerontechnology Nerwork, and DRS. My commitment to the field is underscored by my long-standing service and regular engagement as an editorial board member, program committee member, and reviewer for international journals and conferences. 
-</div>
+Currently I am leading several prestigious research grants, including the Young Scientist Programme of the **National Natural Science Foundation of China (NSFC)** and the Young Scientist Programme of the **Shanghai Magnolia Talent Plan Pujiang Project**. My scholarly contributions have been published in esteemed international journals and conferences such as Innovation in Aging, Medical Internet Research, ACM CHI, and so on. I also hold an executive member role in the CCF HCI Committee and I am a professional member of ASA, IEEE, Socio-gerontechnology Network, and DRS. My commitment to the field is underscored by my long-standing service and regular engagement as an editorial board member, program committee member, and reviewer for international journals and conferences. 
+
 
 ## Research Experience
 - **Assistant Professor** in School of Design, Shanghai Jiao Tong University, 2024 - Now
