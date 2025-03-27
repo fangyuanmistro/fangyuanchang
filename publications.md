@@ -29,12 +29,17 @@ titles: Publications
 
 
 ## Research Grants and Scholarships
-- **PI**, Industrial Internet XR Education Lab, Ministry of Education University-Industry Collaborative Education Program, 231104276200911. 200,000 RMB, 2024-05 to 2024-12. 教育部产学合作协同育人项目: 工业互联网XR教育实验室.
-- **PI**, Virtual Reality Education Technology for Smart Museums, National Natural Science Foundation of China (NSFC), 62207022. 300,000 RMB, 2023-01 to 2025-12. 国家自然科学基金青年科学基金: 面向智慧博物馆的虚拟现实教育研究.
-- **PI**, Extended Reality Collaboration Technology for Metaverse, Natural Science Foundation of the Jiangsu Higher Education Institutions of China. 30,000 RMB, 2022-07 to 2024-06. 江苏省高校自然科学研究面上项目: 面向元宇宙的扩展现实协作技术研究.
-- **Co-PI**, Revisualization of Architectural Heritage with Heritage Building Information System (H-BIM) and Extended Reality (XR) Technology. Suzhou Science and Technology Development Planning Programme, 2022SS51. PI: Dr Yiping Dong, 100,000 RMB, 2022-07 to 2025-06. 苏州市科技计划（社会发展科技创新）: 基于建筑信息系统与扩展现实技术的建筑遗产重现应用研究.
-- **Co-PI**, The collaborative work of heritage: Dataware as a means to support articulation work between abstract heritage data and information visualisation. XJTLU Research Development Fund, RDF-21-02-008. PI: Dr Yushan Pan, 100,000 RMB, 2023-01 to 2025-12.
-- **Co-PI**, Low-code framework research and development for small-scale and highly flexible research affairs management system for SAT. AI University Research Centre (AIURC) Fund, AIURC-2022-0007. PI: Fei Cheng (CAN), 95,000 RMB, 2022-09 to 2024-08.
-- **Co-PI**, Design and Development of Trusted Real-Time Execution Environments. XJTLU Research Enhancement Fund, REF-21-01-002. PI: Prof Ka Lok Man, 50,000 RMB, 2022-03 to 2024-02.
-- **Co-PI**, Development of Data-Driven Project-Based Learning Instructional Model and Strategies for the XJTLU Undergraduate Students. XJTLU Teaching Development Fund, TDF21/22-R25-189. PI: Dr Jinhee Kim, 50,000 RMB, 2023-02 to 2024-02.
-- **Co-PI**, Exploring Immersive Learning Through Virtual Reality Technology in IOM411 Logistics and Physical Distribution. XJTLU Teaching Development Fund, TDF20/21-R22-147. PI: Dr Zhiqin Ni, 50,000 RMB, 2021-09 to 2023-08.
+- **PI**, National Natural Science Foundation of China, Youth Scientists Fund, Complex Alarm Response Tasks in Long-term Care: Optimizing Healthcare Professionals' Performance with the Lens of Socio-technical Systems, 2025.01-2027.12.
+- **PI**, Shanghai Municipal Human Resources and Social Security Bureau, Pujiang Talent Program, Human-AI interaction in long-term care: Identifying Influential Factors from an Ergonomics Perspective, 2025.01-2027.12.
+- **PI**, China Postdoctoral Science Foundation, General Project, Research on Human-Machine Integration and Influential Factors from the Perspective of Socio-Technical Systems in Eldercare, 2023.07 – 2024.06.
+- **PI**, Shanghai Municipal Human Resources and Social Security Bureau, Super Postdoctoral Fellowship, Research on the Influence of Robot Anthropomorphism on Trust of Elderly Users and Design Strategies, 2022.03 – 2024.02.
+- **PI**, Shanghai Jiao Tong University Young Talents Cultivation Plan for Liberal Arts, Research on the Mutual Trusted Perceptions of Robot Accompanying the Elderly, 2024.07 – 2026.06.
+- **PI**, Shanghai Jiao Tong University School of Design, Collaborative Innovation Youth Project, Development of Design Tools for Capturing Positive Emotions Related to Acceptance Intention in Elderly Technology, 2022.07 – 2024.06.
+- **Co-PI**, Jiangsu Provincial Department of Science and Technology, Key R&D Plan of Modern Agriculture, The Creation of Wearable Devices and Their Application in Monitoring Healthy Status of Sows Infected with CSFV/PRRSV, 2022.07 – 2026.06.
+- **Co-PI**, Agriculture Service Center of Shanghai Municipality, Key R&D Project of Agricultural Science and Technology, Innovative Integration of Artificial Intelligence in Early Warning and Prevention of Bovine Mastitis, 2020.06 – 2023.06.
+- **Co-PI**, SAIC MOTOR, Automated Driving and User Experience Quantification, 2022.06 – 2023.06.
+- **Co-PI**, Huawei, Smart Homes and User Experiences Evaluation, 2022.04 – 2023.04.
+- **Co-PI**, iFloo, The Development of Social Alarm System Nectarine Health in Vardage Nursing homes, 2018.01 – 2021.12.
+- **Member**, Europe CareNet： Being Connected at Home - Making Use of Digital Devices in Later Life, 2018.12 – 2021.12.
+- **Member**, Europe Horizon 2020: Inclusive Robotics for a better Society (INBOTS), 2018.01 – 2021.06.
+- **Member**, Digital Future seed grant: Advanced Adaptive Intelligent Systems, 2019.09 – 2020.12.
