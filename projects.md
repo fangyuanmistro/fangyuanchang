@@ -36,7 +36,7 @@ For SJTU students who are interested in doing projects with me, please feel free
           </div>
           <div class="card__content">
             <div class="card__header">
-              <h4>AI for Goods: Social Robots in Eldercare</h4>
+              <h4>AI for Goods: Social Robots in Eldercare Practices</h4>
             </div>
             <p> Optimising social robots for eldercare practices through investigating the dynamics of Human-robot Interaction in practices</p>
             <p> <b>PI.</b> </p>
@@ -94,7 +94,7 @@ For SJTU students who are interested in doing projects with me, please feel free
             <div class="card__header">
               <h4>Transparency in Collaborative Human-AI Decision Making</h4>
             </div>
-            <p> Understanding interactivity with AI in decision-making and fostering interaction designs for achieving clear communication</p>
+            <p> Understanding interactivity with AI in decision-making and fostering the clarity of Human-AI communication</p>
             <p> [with Prof. Zhenyu Gu] </p>
             <p> @ SJTU, Shanghai; Huawei, Shenzhen. </p>
             <p><a class="button button--secondary button--pill" href="https://www.researchgate.net/publication/376403428_A_Novel_Integration_Strategy_for_Uncertain_Knowledge_in_Group_Decision-Making_with_Artificial_Opinions_A_DSFIT-SOA-DEMATEL_Approach">PDF</a></p>
@@ -128,9 +128,9 @@ For SJTU students who are interested in doing projects with me, please feel free
           </div>
           <div class="card__content">
             <div class="card__header">
-              <h4>Generative AI for Interior Dungeon Game Scenes</h4>
+              <h4>Generative AI Tools for Designing Interior Dungeon Game Scenes</h4>
             </div>
-            <p> Developing Interior Dungeon Game Scenes through Generative AI</p>
+            <p> Investigating Game Designers' Work Flow and Developing Interior Dungeon Game Scenes through Generative AI</p>
             <p> [with Prof. Zhenyu Gu] </p>
             <p> @ SJTU, Shanghai; XXX, Shenzhen. </p>
             <p><a class="button button--secondary button--pill" href="https://www.researchgate.net/publication/376403428_A_Novel_Integration_Strategy_for_Uncertain_Knowledge_in_Group_Decision-Making_with_Artificial_Opinions_A_DSFIT-SOA-DEMATEL_Approach">Demo</a></p>
@@ -149,7 +149,7 @@ For SJTU students who are interested in doing projects with me, please feel free
               <h4>CalmDen: Sensing the Separation Anxiety</h4>
             </div>
             <p> Designing a Smart Dog Kennel to Reduce Separation Anxiety in Pets</p>
-            <p> <b>PI</b>. Student: Linfa Wang, Kaifan Wu. </p>
+            <p> <b>PI</b>. </p>
             <p> @ SJTU, Shanghai. </p>
             <p><a class="button button--secondary button--pill" href="HTTP://h">Demo Under Processing</a></p>
           </div>
@@ -166,7 +166,7 @@ For SJTU students who are interested in doing projects with me, please feel free
             <div class="card__header">
               <h4>Optimising CubeMuseum VR</h4>
             </div>
-            <p> Optimising CubeMuseum For Cultural Artifact Learning and Museum Gifting </p>
+            <p> Optimising CubeMuseum For Cultural Artifact Learning </p>
             <p> [with Asst. Prof. Andong Zhang] </p>
             <p> @ SJTU, Shanghai. </p>
             <p><a class="button button--secondary button--pill" href="HTTP://h">Demo Under Processing</a></p>
