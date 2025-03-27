@@ -38,7 +38,7 @@ For SJTU students who are interested in doing projects with me, please feel free
             <div class="card__header">
               <h4>AI for Goods: Social Robots in Eldercare</h4>
             </div>
-            <p> Optimising social robots for eldercare practices through investigating the dynamics of HRI in practices</p>
+            <p> Optimising social robots for eldercare practices through investigating the dynamics of Human-robot Interaction in practices</p>
             <p> <b>PI.</b> </p>
             <p> @ SJTU, Shanghai; Lovot Robot, Shanghai. </p>
             <p><a class="button button--secondary button--pill" href="[https://www.researchgate.net/publication/383943012_Navigating_Challenges_and_Opportunities_in_Community-based_Interventions_for_Promoting_Active_Ageing_A_Systematic_Review_of_the_Roles_of_Technology">PDF</a></p>
@@ -112,10 +112,10 @@ For SJTU students who are interested in doing projects with me, please feel free
             <div class="card__header">
               <h4>Digital MoMo Campus and Actant Dynamics @ SJTU</h4>
             </div>
-            <p> Contextualizing and Visualizing the Dynamics of Actants (human/non-human actors) in the SJTU Campus</p>
+            <p> Contextualizing, Visualizing and Simulating the Dynamics of Actants (human/non-human actors) in the SJTU Campus</p>
             <p> <b>PI</b>.</p>
-            <p> @ SJTU, Shanghai. </p>
-            <p> Demo under Processing </p>
+            <p> @ SJTU, Shanghai; VRAR, Shanghai. </p>
+            <p><a class="button button--secondary button--pill" href="HTTP://h">Demo Under Processing</a></p>
           </div>
         </div>  
       </div>
@@ -128,11 +128,11 @@ For SJTU students who are interested in doing projects with me, please feel free
           </div>
           <div class="card__content">
             <div class="card__header">
-              <h4>GenAI for Interior Dungeon Game Scenes</h4>
+              <h4>Generative AI for Interior Dungeon Game Scenes</h4>
             </div>
             <p> Developing Interior Dungeon Game Scenes through Generative AI</p>
             <p> [with Prof. Zhenyu Gu] </p>
-            <p> @ SJTU, Shanghai. </p>
+            <p> @ SJTU, Shanghai; XXX, Shenzhen. </p>
             <p><a class="button button--secondary button--pill" href="https://www.researchgate.net/publication/376403428_A_Novel_Integration_Strategy_for_Uncertain_Knowledge_in_Group_Decision-Making_with_Artificial_Opinions_A_DSFIT-SOA-DEMATEL_Approach">Demo</a></p>
           </div>
         </div>  
@@ -151,7 +151,7 @@ For SJTU students who are interested in doing projects with me, please feel free
             <p> Designing a Smart Dog Kennel to Reduce Separation Anxiety in Pets</p>
             <p> <b>PI</b>. Student: Linfa Wang, Kaifan Wu. </p>
             <p> @ SJTU, Shanghai. </p>
-            <p> awaiting further attachment of Demo </p>
+            <p><a class="button button--secondary button--pill" href="HTTP://h">Demo Under Processing</a></p>
           </div>
         </div>  
       </div>
@@ -169,7 +169,7 @@ For SJTU students who are interested in doing projects with me, please feel free
             <p> Optimising CubeMuseum For Cultural Artifact Learning and Museum Gifting </p>
             <p> [with Asst. Prof. Andong Zhang] </p>
             <p> @ SJTU, Shanghai. </p>
-            <p> Demo under Processing </p>
+            <p><a class="button button--secondary button--pill" href="HTTP://h">Demo Under Processing</a></p>
           </div>
         </div>  
       </div>
@@ -187,7 +187,7 @@ For SJTU students who are interested in doing projects with me, please feel free
             <p> Investigating the Congruency of Olfaction and Auditory Stimuli on HRI </p>
             <p><b>PI</b>. With Prof. Zhenyu Gu </p>
             <p> @ SJTU, Shanghai.</p> 
-            <p> awaiting further attachment of PDF </p>
+            <p><a class="button button--secondary button--pill" href="HTTP://h">PDF Under Processing</a></p>
             <p> 
             </p>
           </div>
